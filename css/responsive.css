@@ -1,0 +1,232 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .navbar-expand-lg{
+    padding: 0!important;
+  }
+   .banner {
+    height: 39vh!important;
+  }
+  .banner .col-xs-12{
+    text-align: right;
+  }
+  .banner-right {
+    margin-top: 0!important;
+  }
+  .banner-right h3{
+    margin: 0!important;
+    padding: 8px 10px!important;
+    font-size: 20px!important;
+  }
+  .banner-right img{
+    height: 78px;
+  }
+  .banner2-right {
+    top: 0;
+    text-align: right!important;
+  }
+  .banner2-right .img-fluid {
+    max-width: 56%;
+  }
+
+  .banner-right h2 {
+    font-size: 18px!important;
+    margin-top: 10px!important;
+  }
+  .banner-right h1 {
+    font-size: 20px!important;
+}
+  .banner2-left h3 {
+    font-size: 16px!important;
+  }
+  .banner2-left p {
+    font-size: 10px!important;
+    margin-top: 0!important; 
+    margin-bottom: 0!important;
+  }
+  .banner2-left {
+    height: 21vh!important;
+    padding-right: 122px!important;
+  }
+  .new {
+    padding: 20px 0!important;
+   }
+  .new-row .col-md-4 {
+    width: 100%!important;
+    margin-top: 20px!important;
+  }
+  .new-title p {
+    margin-top: 14px!important;
+  }
+  .gallery {
+    padding: 32px 0!important;
+  }
+  .gallery .container{
+    padding: 0!important;
+  }
+  .gallery-mg {
+    margin: 0!important;
+  }
+  .gallery .col-md-3 {
+    text-align: center!important;
+    padding: 36px 0!important;
+    border: 1px solid #313723!important;
+}
+.gallery-title h1 {
+    font-size: 38px!important;
+  }
+.gallery-title h2 {
+    font-size: 36px!important;
+  }
+  .simple {
+    padding: 38px 0!important;
+  }
+  .simple-text h1 {
+    font-size: 36px!important;
+  }
+  .simple-text p {
+    font-size: 14px!important;
+  }
+  .menu {
+    height: 286vh!important;
+  }
+  .menu-text h5 {
+    font-size: 50px!important;
+  }
+  .menu-text h2 {
+    font-size: 28px!important;
+  }
+  .menu-list {
+    text-align: center;
+  }
+  .menu-list2 {
+    margin-left: 0!important;
+}
+.menu-list2 .col-md-3 {
+    text-align: center!important;
+}
+.book-title h1 {
+    font-size: 54px!important;
+}
+.book .row{
+  text-align: center;
+}
+.date-title h5 {
+    margin-top: 44px;
+}
+.time-title h5{
+  margin-top: 44px;
+}
+.book-btn button {
+    width: 238px!important;
+  }
+  .drop-down1 h5{
+    margin-top: 44px;
+  }
+  .big2 {
+    height: 33vh!important;
+  }
+  .offers-title h5 {
+    font-size: 52px!important;
+  }
+  .offers-title h2{
+    font-size: 30px!important;
+    margin-bottom: 0!important;
+  }
+  .offers .col-md-4 {
+    width: 100%!important;
+    margin-top: 38px!important;
+  }
+  .offers{
+    padding-bottom: 65px!important;
+  }
+  .icons {
+    padding: 38px 0!important;
+  }
+  .icon-p {
+    font-size: 20px!important;
+  }
+  .icons ul li i {
+    font-size: 22px!important;
+  }
+  .icons ul li {
+    height: 40px!important;
+    line-height: 45px!important;
+    margin: 0px 10px!important;
+    width: 40px!important;
+  }
+  .icons-text p{
+    font-size: 15px!important;
+    margin-top: 20px!important;
+  }
+  .footer .col-md-4{
+    padding: 0!important;
+  }
+  .right-item{
+    border: 2px solid #353c22!important;
+    padding: 16px!important;
+    margin-top: 5px;
+  }
+
+
+}
